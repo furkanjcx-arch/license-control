@@ -1,8 +1,6 @@
 {
   "active_user": {
-    "furkanjcx": {
-      "token": "",
-      "status": "active"
-    }
+    "status": "active",
+    "token": ""
   }
 }
